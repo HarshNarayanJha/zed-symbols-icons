@@ -1,0 +1,7 @@
+id = "symbols-icon-theme"
+name = "Symbols Icon"
+version = "0.0.22"
+schema_version = 1
+authors = ["Harsh Narayan Jha <harshnj@proton.me>"]
+description = "A simple file icon theme for Zed."
+repository = "https://github.com/HarshNarayanJha/zed-symbols-icons"
